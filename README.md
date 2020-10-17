@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<a href="https://github.com/croutonn/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-croutonn.vercel.app/api?username=croutonn&show_icons=true&count_private=true" alt="croutonn's github stats" />
+</a>
+<a href="https://github.com/croutonn/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-croutonn.vercel.app/api/top-langs/?username=croutonn" alt="Top Langs" />
+</a>
+
 <!--
 **croutonn/croutonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
