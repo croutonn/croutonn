@@ -1,11 +1,11 @@
-### Hey guys!😺
-
-*All the documents in my repository are translated by machine translation, so please let me know if there are any strange sentences.*
+### Hi
 
 I'm focusing on the two repositories below.  
 
-* [graphql-codegen-plugin-typescript-swr](https://github.com/croutonn/graphql-codegen-plugin-typescript-swr)
+* [tailwindcss-pseudo-elements](https://github.com/croutonn/tailwindcss-pseudo-elements)
 * [@croutonn/eslint-plugin](https://github.com/croutonn/eslint-plugin)
+
+As I haven't used [graphql-codegen-plugin-typescript-swr](https://github.com/croutonn/graphql-codegen-plugin-typescript-swr) in my project, I don't have much motivation.
 
 <a href="#">
   <img align="center" src="https://raw.githubusercontent.com/croutonn/croutonn/main/profile-summary-card-output/default/3-stats.svg" alt="My GitHub Stats" />
