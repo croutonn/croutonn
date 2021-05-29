@@ -3,7 +3,7 @@
 I'm focusing on the two repositories below.  
 
 * [tailwindcss-pseudo-elements](https://github.com/croutonn/tailwindcss-pseudo-elements)
-* [@croutonn/eslint-plugin](https://github.com/croutonn/eslint-plugin)
+* [@typehut/eslint-plugin](https://github.com/typehut/eslint-plugin)
 
 As I haven't used [graphql-codegen-plugin-typescript-swr](https://github.com/croutonn/graphql-codegen-plugin-typescript-swr) in my project, I don't have much motivation.
 
