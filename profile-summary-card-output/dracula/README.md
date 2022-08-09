@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/croutonn/croutonn/main/profile-summary-card-output/dracula/4-productive-time.svg)
+```
+
+    
